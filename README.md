@@ -1,2 +1,2 @@
 # ML
-Machine Learning resources, codes, examples and work
+Machine Learning code, examples and study projects
